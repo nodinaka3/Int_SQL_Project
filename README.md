@@ -15,7 +15,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
  -  Assigned customers to High, Medium, and Low LTV segments
  -  Calculated key metrics: total revenue, average order value
 
- Query: [See `1 Customer Segmentation.sql`](/1%20Customer%20Segmentation.sql)
+ Query: [See `1 Customer Segmentation.sql`](/1.%20Customer%20Segmentation.sql)
 
 **Visualization:**
 ![Customer Segmentation](/Images/1_customer_segmentation.png)
