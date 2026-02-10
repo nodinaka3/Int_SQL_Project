@@ -18,7 +18,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
  Query: [See `1 Customer Segmentation.sql`](/1%20Customer%20Segmentation.sql)
 
 **Visualization:**
-![Customer Segmentation](/Images/1_Customer_Segmentation.png)
+![Customer Segmentation](/Images/1_customer_segmentation.png)
 
 **Key Findings:**
 - High-value segments (25% of customers) contribute 66% of total revenue ($135.6M)
