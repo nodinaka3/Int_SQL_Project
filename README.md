@@ -84,5 +84,5 @@ The aim should be on converting the $4.3M segment into mid-value customers throu
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Tools:** SQL, DBeaver, GitHub, VS Code
+- **Tools:** DBeaver, PGadmin, VS Code
 - **Visualizations:** Python (Matplotlib, Seaborn), Tableau
